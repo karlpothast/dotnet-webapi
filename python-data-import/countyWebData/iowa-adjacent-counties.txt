@@ -1,0 +1,762 @@
+"Adair County, IA"	19001	"Adair County, IA"	19001
+		"Adams County, IA"	19003
+		"Audubon County, IA"	19009
+		"Cass County, IA"	19029
+		"Dallas County, IA"	19049
+		"Guthrie County, IA"	19077
+		"Madison County, IA"	19121
+		"Union County, IA"	19175
+"Adams County, IA"	19003	"Adair County, IA"	19001
+		"Adams County, IA"	19003
+		"Cass County, IA"	19029
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Ringgold County, IA"	19159
+		"Taylor County, IA"	19173
+		"Union County, IA"	19175
+"Allamakee County, IA"	19005	"Allamakee County, IA"	19005
+		"Clayton County, IA"	19043
+		"Fayette County, IA"	19065
+		"Winneshiek County, IA"	19191
+		"Houston County, MN"	27055
+		"Crawford County, WI"	55023
+		"Vernon County, WI"	55123
+"Appanoose County, IA"	19007	"Appanoose County, IA"	19007
+		"Davis County, IA"	19051
+		"Lucas County, IA"	19117
+		"Monroe County, IA"	19135
+		"Wapello County, IA"	19179
+		"Wayne County, IA"	19185
+		"Putnam County, MO"	29171
+		"Schuyler County, MO"	29197
+"Audubon County, IA"	19009	"Adair County, IA"	19001
+		"Audubon County, IA"	19009
+		"Carroll County, IA"	19027
+		"Cass County, IA"	19029
+		"Crawford County, IA"	19047
+		"Guthrie County, IA"	19077
+		"Shelby County, IA"	19165
+"Benton County, IA"	19011	"Benton County, IA"	19011
+		"Black Hawk County, IA"	19013
+		"Buchanan County, IA"	19019
+		"Iowa County, IA"	19095
+		"Johnson County, IA"	19103
+		"Linn County, IA"	19113
+		"Poweshiek County, IA"	19157
+		"Tama County, IA"	19171
+"Black Hawk County, IA"	19013	"Benton County, IA"	19011
+		"Black Hawk County, IA"	19013
+		"Bremer County, IA"	19017
+		"Buchanan County, IA"	19019
+		"Butler County, IA"	19023
+		"Fayette County, IA"	19065
+		"Grundy County, IA"	19075
+		"Tama County, IA"	19171
+"Boone County, IA"	19015	"Boone County, IA"	19015
+		"Dallas County, IA"	19049
+		"Greene County, IA"	19073
+		"Hamilton County, IA"	19079
+		"Polk County, IA"	19153
+		"Story County, IA"	19169
+		"Webster County, IA"	19187
+"Bremer County, IA"	19017	"Black Hawk County, IA"	19013
+		"Bremer County, IA"	19017
+		"Buchanan County, IA"	19019
+		"Butler County, IA"	19023
+		"Chickasaw County, IA"	19037
+		"Fayette County, IA"	19065
+		"Floyd County, IA"	19067
+"Buchanan County, IA"	19019	"Benton County, IA"	19011
+		"Black Hawk County, IA"	19013
+		"Bremer County, IA"	19017
+		"Buchanan County, IA"	19019
+		"Clayton County, IA"	19043
+		"Delaware County, IA"	19055
+		"Fayette County, IA"	19065
+		"Linn County, IA"	19113
+"Buena Vista County, IA"	19021	"Buena Vista County, IA"	19021
+		"Calhoun County, IA"	19025
+		"Cherokee County, IA"	19035
+		"Clay County, IA"	19041
+		"Ida County, IA"	19093
+		"O'Brien County, IA"	19141
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+		"Sac County, IA"	19161
+"Butler County, IA"	19023	"Black Hawk County, IA"	19013
+		"Bremer County, IA"	19017
+		"Butler County, IA"	19023
+		"Cerro Gordo County, IA"	19033
+		"Chickasaw County, IA"	19037
+		"Floyd County, IA"	19067
+		"Franklin County, IA"	19069
+		"Grundy County, IA"	19075
+		"Hardin County, IA"	19083
+"Calhoun County, IA"	19025	"Buena Vista County, IA"	19021
+		"Calhoun County, IA"	19025
+		"Carroll County, IA"	19027
+		"Greene County, IA"	19073
+		"Pocahontas County, IA"	19151
+		"Sac County, IA"	19161
+		"Webster County, IA"	19187
+"Carroll County, IA"	19027	"Audubon County, IA"	19009
+		"Calhoun County, IA"	19025
+		"Carroll County, IA"	19027
+		"Crawford County, IA"	19047
+		"Greene County, IA"	19073
+		"Guthrie County, IA"	19077
+		"Sac County, IA"	19161
+		"Shelby County, IA"	19165
+"Cass County, IA"	19029	"Adair County, IA"	19001
+		"Adams County, IA"	19003
+		"Audubon County, IA"	19009
+		"Cass County, IA"	19029
+		"Guthrie County, IA"	19077
+		"Montgomery County, IA"	19137
+		"Pottawattamie County, IA"	19155
+		"Shelby County, IA"	19165
+"Cedar County, IA"	19031	"Cedar County, IA"	19031
+		"Clinton County, IA"	19045
+		"Johnson County, IA"	19103
+		"Jones County, IA"	19105
+		"Linn County, IA"	19113
+		"Muscatine County, IA"	19139
+		"Scott County, IA"	19163
+"Cerro Gordo County, IA"	19033	"Butler County, IA"	19023
+		"Cerro Gordo County, IA"	19033
+		"Floyd County, IA"	19067
+		"Franklin County, IA"	19069
+		"Hancock County, IA"	19081
+		"Mitchell County, IA"	19131
+		"Winnebago County, IA"	19189
+		"Worth County, IA"	19195
+		"Wright County, IA"	19197
+"Cherokee County, IA"	19035	"Buena Vista County, IA"	19021
+		"Cherokee County, IA"	19035
+		"Clay County, IA"	19041
+		"Ida County, IA"	19093
+		"O'Brien County, IA"	19141
+		"Plymouth County, IA"	19149
+		"Sac County, IA"	19161
+		"Sioux County, IA"	19167
+		"Woodbury County, IA"	19193
+"Chickasaw County, IA"	19037	"Bremer County, IA"	19017
+		"Butler County, IA"	19023
+		"Chickasaw County, IA"	19037
+		"Fayette County, IA"	19065
+		"Floyd County, IA"	19067
+		"Howard County, IA"	19089
+		"Mitchell County, IA"	19131
+		"Winneshiek County, IA"	19191
+"Clarke County, IA"	19039	"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Lucas County, IA"	19117
+		"Madison County, IA"	19121
+		"Ringgold County, IA"	19159
+		"Union County, IA"	19175
+		"Warren County, IA"	19181
+		"Wayne County, IA"	19185
+"Clay County, IA"	19041	"Buena Vista County, IA"	19021
+		"Cherokee County, IA"	19035
+		"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Emmet County, IA"	19063
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+"Clayton County, IA"	19043	"Allamakee County, IA"	19005
+		"Buchanan County, IA"	19019
+		"Clayton County, IA"	19043
+		"Delaware County, IA"	19055
+		"Dubuque County, IA"	19061
+		"Fayette County, IA"	19065
+		"Winneshiek County, IA"	19191
+		"Crawford County, WI"	55023
+		"Grant County, WI"	55043
+"Clinton County, IA"	19045	"Carroll County, IL"	17015
+		"Rock Island County, IL"	17161
+		"Whiteside County, IL"	17195
+		"Cedar County, IA"	19031
+		"Clinton County, IA"	19045
+		"Jackson County, IA"	19097
+		"Jones County, IA"	19105
+		"Scott County, IA"	19163
+"Crawford County, IA"	19047	"Audubon County, IA"	19009
+		"Carroll County, IA"	19027
+		"Crawford County, IA"	19047
+		"Harrison County, IA"	19085
+		"Ida County, IA"	19093
+		"Monona County, IA"	19133
+		"Sac County, IA"	19161
+		"Shelby County, IA"	19165
+		"Woodbury County, IA"	19193
+"Dallas County, IA"	19049	"Adair County, IA"	19001
+		"Boone County, IA"	19015
+		"Dallas County, IA"	19049
+		"Greene County, IA"	19073
+		"Guthrie County, IA"	19077
+		"Madison County, IA"	19121
+		"Polk County, IA"	19153
+		"Warren County, IA"	19181
+"Davis County, IA"	19051	"Appanoose County, IA"	19007
+		"Davis County, IA"	19051
+		"Jefferson County, IA"	19101
+		"Monroe County, IA"	19135
+		"Van Buren County, IA"	19177
+		"Wapello County, IA"	19179
+		"Schuyler County, MO"	29197
+		"Scotland County, MO"	29199
+"Decatur County, IA"	19053	"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Lucas County, IA"	19117
+		"Ringgold County, IA"	19159
+		"Union County, IA"	19175
+		"Wayne County, IA"	19185
+		"Harrison County, MO"	29081
+		"Mercer County, MO"	29129
+"Delaware County, IA"	19055	"Buchanan County, IA"	19019
+		"Clayton County, IA"	19043
+		"Delaware County, IA"	19055
+		"Dubuque County, IA"	19061
+		"Fayette County, IA"	19065
+		"Jones County, IA"	19105
+		"Linn County, IA"	19113
+"Des Moines County, IA"	19057	"Henderson County, IL"	17071
+		"Mercer County, IL"	17131
+		"Des Moines County, IA"	19057
+		"Henry County, IA"	19087
+		"Lee County, IA"	19111
+		"Louisa County, IA"	19115
+"Dickinson County, IA"	19059	"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Emmet County, IA"	19063
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Palo Alto County, IA"	19147
+		"Jackson County, MN"	27063
+"Dubuque County, IA"	19061	"Jo Daviess County, IL"	17085
+		"Clayton County, IA"	19043
+		"Delaware County, IA"	19055
+		"Dubuque County, IA"	19061
+		"Jackson County, IA"	19097
+		"Jones County, IA"	19105
+		"Grant County, WI"	55043
+"Emmet County, IA"	19063	"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Emmet County, IA"	19063
+		"Kossuth County, IA"	19109
+		"Palo Alto County, IA"	19147
+		"Jackson County, MN"	27063
+		"Martin County, MN"	27091
+"Fayette County, IA"	19065	"Allamakee County, IA"	19005
+		"Black Hawk County, IA"	19013
+		"Bremer County, IA"	19017
+		"Buchanan County, IA"	19019
+		"Chickasaw County, IA"	19037
+		"Clayton County, IA"	19043
+		"Delaware County, IA"	19055
+		"Fayette County, IA"	19065
+		"Winneshiek County, IA"	19191
+"Floyd County, IA"	19067	"Bremer County, IA"	19017
+		"Butler County, IA"	19023
+		"Cerro Gordo County, IA"	19033
+		"Chickasaw County, IA"	19037
+		"Floyd County, IA"	19067
+		"Franklin County, IA"	19069
+		"Howard County, IA"	19089
+		"Mitchell County, IA"	19131
+"Franklin County, IA"	19069	"Butler County, IA"	19023
+		"Cerro Gordo County, IA"	19033
+		"Floyd County, IA"	19067
+		"Franklin County, IA"	19069
+		"Grundy County, IA"	19075
+		"Hamilton County, IA"	19079
+		"Hancock County, IA"	19081
+		"Hardin County, IA"	19083
+		"Wright County, IA"	19197
+"Fremont County, IA"	19071	"Fremont County, IA"	19071
+		"Mills County, IA"	19129
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Atchison County, MO"	29005
+		"Cass County, NE"	31025
+		"Otoe County, NE"	31131
+"Greene County, IA"	19073	"Boone County, IA"	19015
+		"Calhoun County, IA"	19025
+		"Carroll County, IA"	19027
+		"Dallas County, IA"	19049
+		"Greene County, IA"	19073
+		"Guthrie County, IA"	19077
+		"Webster County, IA"	19187
+"Grundy County, IA"	19075	"Black Hawk County, IA"	19013
+		"Butler County, IA"	19023
+		"Franklin County, IA"	19069
+		"Grundy County, IA"	19075
+		"Hardin County, IA"	19083
+		"Marshall County, IA"	19127
+		"Tama County, IA"	19171
+"Guthrie County, IA"	19077	"Adair County, IA"	19001
+		"Audubon County, IA"	19009
+		"Carroll County, IA"	19027
+		"Cass County, IA"	19029
+		"Dallas County, IA"	19049
+		"Greene County, IA"	19073
+		"Guthrie County, IA"	19077
+		"Madison County, IA"	19121
+"Hamilton County, IA"	19079	"Boone County, IA"	19015
+		"Franklin County, IA"	19069
+		"Hamilton County, IA"	19079
+		"Hardin County, IA"	19083
+		"Story County, IA"	19169
+		"Webster County, IA"	19187
+		"Wright County, IA"	19197
+"Hancock County, IA"	19081	"Cerro Gordo County, IA"	19033
+		"Franklin County, IA"	19069
+		"Hancock County, IA"	19081
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Winnebago County, IA"	19189
+		"Worth County, IA"	19195
+		"Wright County, IA"	19197
+"Hardin County, IA"	19083	"Butler County, IA"	19023
+		"Franklin County, IA"	19069
+		"Grundy County, IA"	19075
+		"Hamilton County, IA"	19079
+		"Hardin County, IA"	19083
+		"Marshall County, IA"	19127
+		"Story County, IA"	19169
+		"Wright County, IA"	19197
+"Harrison County, IA"	19085	"Crawford County, IA"	19047
+		"Harrison County, IA"	19085
+		"Monona County, IA"	19133
+		"Pottawattamie County, IA"	19155
+		"Shelby County, IA"	19165
+		"Burt County, NE"	31021
+		"Washington County, NE"	31177
+"Henry County, IA"	19087	"Des Moines County, IA"	19057
+		"Henry County, IA"	19087
+		"Jefferson County, IA"	19101
+		"Lee County, IA"	19111
+		"Louisa County, IA"	19115
+		"Van Buren County, IA"	19177
+		"Washington County, IA"	19183
+"Howard County, IA"	19089	"Chickasaw County, IA"	19037
+		"Floyd County, IA"	19067
+		"Howard County, IA"	19089
+		"Mitchell County, IA"	19131
+		"Winneshiek County, IA"	19191
+		"Fillmore County, MN"	27045
+		"Mower County, MN"	27099
+"Humboldt County, IA"	19091	"Hancock County, IA"	19081
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+		"Webster County, IA"	19187
+		"Wright County, IA"	19197
+"Ida County, IA"	19093	"Buena Vista County, IA"	19021
+		"Cherokee County, IA"	19035
+		"Crawford County, IA"	19047
+		"Ida County, IA"	19093
+		"Monona County, IA"	19133
+		"Sac County, IA"	19161
+		"Woodbury County, IA"	19193
+"Iowa County, IA"	19095	"Benton County, IA"	19011
+		"Iowa County, IA"	19095
+		"Johnson County, IA"	19103
+		"Keokuk County, IA"	19107
+		"Linn County, IA"	19113
+		"Poweshiek County, IA"	19157
+		"Tama County, IA"	19171
+		"Washington County, IA"	19183
+"Jackson County, IA"	19097	"Carroll County, IL"	17015
+		"Jo Daviess County, IL"	17085
+		"Clinton County, IA"	19045
+		"Dubuque County, IA"	19061
+		"Jackson County, IA"	19097
+		"Jones County, IA"	19105
+"Jasper County, IA"	19099	"Jasper County, IA"	19099
+		"Mahaska County, IA"	19123
+		"Marion County, IA"	19125
+		"Marshall County, IA"	19127
+		"Polk County, IA"	19153
+		"Poweshiek County, IA"	19157
+		"Story County, IA"	19169
+		"Tama County, IA"	19171
+"Jefferson County, IA"	19101	"Davis County, IA"	19051
+		"Henry County, IA"	19087
+		"Jefferson County, IA"	19101
+		"Keokuk County, IA"	19107
+		"Van Buren County, IA"	19177
+		"Wapello County, IA"	19179
+		"Washington County, IA"	19183
+"Johnson County, IA"	19103	"Benton County, IA"	19011
+		"Cedar County, IA"	19031
+		"Iowa County, IA"	19095
+		"Johnson County, IA"	19103
+		"Linn County, IA"	19113
+		"Louisa County, IA"	19115
+		"Muscatine County, IA"	19139
+		"Washington County, IA"	19183
+"Jones County, IA"	19105	"Cedar County, IA"	19031
+		"Clinton County, IA"	19045
+		"Delaware County, IA"	19055
+		"Dubuque County, IA"	19061
+		"Jackson County, IA"	19097
+		"Jones County, IA"	19105
+		"Linn County, IA"	19113
+"Keokuk County, IA"	19107	"Iowa County, IA"	19095
+		"Jefferson County, IA"	19101
+		"Keokuk County, IA"	19107
+		"Mahaska County, IA"	19123
+		"Poweshiek County, IA"	19157
+		"Wapello County, IA"	19179
+		"Washington County, IA"	19183
+"Kossuth County, IA"	19109	"Emmet County, IA"	19063
+		"Hancock County, IA"	19081
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+		"Winnebago County, IA"	19189
+		"Wright County, IA"	19197
+		"Faribault County, MN"	27043
+		"Martin County, MN"	27091
+"Lee County, IA"	19111	"Hancock County, IL"	17067
+		"Henderson County, IL"	17071
+		"Des Moines County, IA"	19057
+		"Henry County, IA"	19087
+		"Lee County, IA"	19111
+		"Van Buren County, IA"	19177
+		"Clark County, MO"	29045
+"Linn County, IA"	19113	"Benton County, IA"	19011
+		"Buchanan County, IA"	19019
+		"Cedar County, IA"	19031
+		"Delaware County, IA"	19055
+		"Iowa County, IA"	19095
+		"Johnson County, IA"	19103
+		"Jones County, IA"	19105
+		"Linn County, IA"	19113
+"Louisa County, IA"	19115	"Mercer County, IL"	17131
+		"Rock Island County, IL"	17161
+		"Des Moines County, IA"	19057
+		"Henry County, IA"	19087
+		"Johnson County, IA"	19103
+		"Louisa County, IA"	19115
+		"Muscatine County, IA"	19139
+		"Washington County, IA"	19183
+"Lucas County, IA"	19117	"Appanoose County, IA"	19007
+		"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Lucas County, IA"	19117
+		"Marion County, IA"	19125
+		"Monroe County, IA"	19135
+		"Warren County, IA"	19181
+		"Wayne County, IA"	19185
+"Lyon County, IA"	19119	"Lyon County, IA"	19119
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Sioux County, IA"	19167
+		"Nobles County, MN"	27105
+		"Rock County, MN"	27133
+		"Lincoln County, SD"	46083
+		"Minnehaha County, SD"	46099
+"Madison County, IA"	19121	"Adair County, IA"	19001
+		"Clarke County, IA"	19039
+		"Dallas County, IA"	19049
+		"Guthrie County, IA"	19077
+		"Madison County, IA"	19121
+		"Polk County, IA"	19153
+		"Union County, IA"	19175
+		"Warren County, IA"	19181
+"Mahaska County, IA"	19123	"Jasper County, IA"	19099
+		"Keokuk County, IA"	19107
+		"Mahaska County, IA"	19123
+		"Marion County, IA"	19125
+		"Monroe County, IA"	19135
+		"Poweshiek County, IA"	19157
+		"Wapello County, IA"	19179
+"Marion County, IA"	19125	"Jasper County, IA"	19099
+		"Lucas County, IA"	19117
+		"Mahaska County, IA"	19123
+		"Marion County, IA"	19125
+		"Monroe County, IA"	19135
+		"Polk County, IA"	19153
+		"Warren County, IA"	19181
+"Marshall County, IA"	19127	"Grundy County, IA"	19075
+		"Hardin County, IA"	19083
+		"Jasper County, IA"	19099
+		"Marshall County, IA"	19127
+		"Poweshiek County, IA"	19157
+		"Story County, IA"	19169
+		"Tama County, IA"	19171
+"Mills County, IA"	19129	"Fremont County, IA"	19071
+		"Mills County, IA"	19129
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Pottawattamie County, IA"	19155
+		"Cass County, NE"	31025
+		"Sarpy County, NE"	31153
+"Mitchell County, IA"	19131	"Cerro Gordo County, IA"	19033
+		"Chickasaw County, IA"	19037
+		"Floyd County, IA"	19067
+		"Howard County, IA"	19089
+		"Mitchell County, IA"	19131
+		"Worth County, IA"	19195
+		"Mower County, MN"	27099
+"Monona County, IA"	19133	"Crawford County, IA"	19047
+		"Harrison County, IA"	19085
+		"Ida County, IA"	19093
+		"Monona County, IA"	19133
+		"Woodbury County, IA"	19193
+		"Burt County, NE"	31021
+		"Thurston County, NE"	31173
+"Monroe County, IA"	19135	"Appanoose County, IA"	19007
+		"Davis County, IA"	19051
+		"Lucas County, IA"	19117
+		"Mahaska County, IA"	19123
+		"Marion County, IA"	19125
+		"Monroe County, IA"	19135
+		"Wapello County, IA"	19179
+		"Wayne County, IA"	19185
+"Montgomery County, IA"	19137	"Adams County, IA"	19003
+		"Cass County, IA"	19029
+		"Fremont County, IA"	19071
+		"Mills County, IA"	19129
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Pottawattamie County, IA"	19155
+		"Taylor County, IA"	19173
+"Muscatine County, IA"	19139	"Rock Island County, IL"	17161
+		"Cedar County, IA"	19031
+		"Johnson County, IA"	19103
+		"Louisa County, IA"	19115
+		"Muscatine County, IA"	19139
+		"Scott County, IA"	19163
+"O'Brien County, IA"	19141	"Buena Vista County, IA"	19021
+		"Cherokee County, IA"	19035
+		"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Lyon County, IA"	19119
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Plymouth County, IA"	19149
+		"Sioux County, IA"	19167
+"Osceola County, IA"	19143	"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Lyon County, IA"	19119
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Sioux County, IA"	19167
+		"Jackson County, MN"	27063
+		"Nobles County, MN"	27105
+"Page County, IA"	19145	"Adams County, IA"	19003
+		"Fremont County, IA"	19071
+		"Mills County, IA"	19129
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Taylor County, IA"	19173
+		"Atchison County, MO"	29005
+		"Nodaway County, MO"	29147
+"Palo Alto County, IA"	19147	"Buena Vista County, IA"	19021
+		"Clay County, IA"	19041
+		"Dickinson County, IA"	19059
+		"Emmet County, IA"	19063
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+"Plymouth County, IA"	19149	"Cherokee County, IA"	19035
+		"O'Brien County, IA"	19141
+		"Plymouth County, IA"	19149
+		"Sioux County, IA"	19167
+		"Woodbury County, IA"	19193
+		"Union County, SD"	46127
+"Pocahontas County, IA"	19151	"Buena Vista County, IA"	19021
+		"Calhoun County, IA"	19025
+		"Clay County, IA"	19041
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Palo Alto County, IA"	19147
+		"Pocahontas County, IA"	19151
+		"Sac County, IA"	19161
+		"Webster County, IA"	19187
+"Polk County, IA"	19153	"Boone County, IA"	19015
+		"Dallas County, IA"	19049
+		"Jasper County, IA"	19099
+		"Madison County, IA"	19121
+		"Marion County, IA"	19125
+		"Polk County, IA"	19153
+		"Story County, IA"	19169
+		"Warren County, IA"	19181
+"Pottawattamie County, IA"	19155	"Cass County, IA"	19029
+		"Harrison County, IA"	19085
+		"Mills County, IA"	19129
+		"Montgomery County, IA"	19137
+		"Pottawattamie County, IA"	19155
+		"Shelby County, IA"	19165
+		"Douglas County, NE"	31055
+		"Sarpy County, NE"	31153
+		"Washington County, NE"	31177
+"Poweshiek County, IA"	19157	"Benton County, IA"	19011
+		"Iowa County, IA"	19095
+		"Jasper County, IA"	19099
+		"Keokuk County, IA"	19107
+		"Mahaska County, IA"	19123
+		"Marshall County, IA"	19127
+		"Poweshiek County, IA"	19157
+		"Tama County, IA"	19171
+"Ringgold County, IA"	19159	"Adams County, IA"	19003
+		"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Ringgold County, IA"	19159
+		"Taylor County, IA"	19173
+		"Union County, IA"	19175
+		"Harrison County, MO"	29081
+		"Worth County, MO"	29227
+"Sac County, IA"	19161	"Buena Vista County, IA"	19021
+		"Calhoun County, IA"	19025
+		"Carroll County, IA"	19027
+		"Cherokee County, IA"	19035
+		"Crawford County, IA"	19047
+		"Ida County, IA"	19093
+		"Pocahontas County, IA"	19151
+		"Sac County, IA"	19161
+"Scott County, IA"	19163	"Rock Island County, IL"	17161
+		"Cedar County, IA"	19031
+		"Clinton County, IA"	19045
+		"Muscatine County, IA"	19139
+		"Scott County, IA"	19163
+"Shelby County, IA"	19165	"Audubon County, IA"	19009
+		"Carroll County, IA"	19027
+		"Cass County, IA"	19029
+		"Crawford County, IA"	19047
+		"Harrison County, IA"	19085
+		"Pottawattamie County, IA"	19155
+		"Shelby County, IA"	19165
+"Sioux County, IA"	19167	"Cherokee County, IA"	19035
+		"Lyon County, IA"	19119
+		"O'Brien County, IA"	19141
+		"Osceola County, IA"	19143
+		"Plymouth County, IA"	19149
+		"Sioux County, IA"	19167
+		"Lincoln County, SD"	46083
+		"Union County, SD"	46127
+"Story County, IA"	19169	"Boone County, IA"	19015
+		"Hamilton County, IA"	19079
+		"Hardin County, IA"	19083
+		"Jasper County, IA"	19099
+		"Marshall County, IA"	19127
+		"Polk County, IA"	19153
+		"Story County, IA"	19169
+"Tama County, IA"	19171	"Benton County, IA"	19011
+		"Black Hawk County, IA"	19013
+		"Grundy County, IA"	19075
+		"Iowa County, IA"	19095
+		"Jasper County, IA"	19099
+		"Marshall County, IA"	19127
+		"Poweshiek County, IA"	19157
+		"Tama County, IA"	19171
+"Taylor County, IA"	19173	"Adams County, IA"	19003
+		"Montgomery County, IA"	19137
+		"Page County, IA"	19145
+		"Ringgold County, IA"	19159
+		"Taylor County, IA"	19173
+		"Union County, IA"	19175
+		"Nodaway County, MO"	29147
+		"Worth County, MO"	29227
+"Union County, IA"	19175	"Adair County, IA"	19001
+		"Adams County, IA"	19003
+		"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Madison County, IA"	19121
+		"Ringgold County, IA"	19159
+		"Taylor County, IA"	19173
+		"Union County, IA"	19175
+"Van Buren County, IA"	19177	"Davis County, IA"	19051
+		"Henry County, IA"	19087
+		"Jefferson County, IA"	19101
+		"Lee County, IA"	19111
+		"Van Buren County, IA"	19177
+		"Wapello County, IA"	19179
+		"Clark County, MO"	29045
+		"Scotland County, MO"	29199
+"Wapello County, IA"	19179	"Appanoose County, IA"	19007
+		"Davis County, IA"	19051
+		"Jefferson County, IA"	19101
+		"Keokuk County, IA"	19107
+		"Mahaska County, IA"	19123
+		"Monroe County, IA"	19135
+		"Van Buren County, IA"	19177
+		"Wapello County, IA"	19179
+"Warren County, IA"	19181	"Clarke County, IA"	19039
+		"Dallas County, IA"	19049
+		"Lucas County, IA"	19117
+		"Madison County, IA"	19121
+		"Marion County, IA"	19125
+		"Polk County, IA"	19153
+		"Warren County, IA"	19181
+"Washington County, IA"	19183	"Henry County, IA"	19087
+		"Iowa County, IA"	19095
+		"Jefferson County, IA"	19101
+		"Johnson County, IA"	19103
+		"Keokuk County, IA"	19107
+		"Louisa County, IA"	19115
+		"Washington County, IA"	19183
+"Wayne County, IA"	19185	"Appanoose County, IA"	19007
+		"Clarke County, IA"	19039
+		"Decatur County, IA"	19053
+		"Lucas County, IA"	19117
+		"Monroe County, IA"	19135
+		"Wayne County, IA"	19185
+		"Mercer County, MO"	29129
+		"Putnam County, MO"	29171
+"Webster County, IA"	19187	"Boone County, IA"	19015
+		"Calhoun County, IA"	19025
+		"Greene County, IA"	19073
+		"Hamilton County, IA"	19079
+		"Humboldt County, IA"	19091
+		"Pocahontas County, IA"	19151
+		"Webster County, IA"	19187
+		"Wright County, IA"	19197
+"Winnebago County, IA"	19189	"Cerro Gordo County, IA"	19033
+		"Hancock County, IA"	19081
+		"Kossuth County, IA"	19109
+		"Winnebago County, IA"	19189
+		"Worth County, IA"	19195
+		"Faribault County, MN"	27043
+		"Freeborn County, MN"	27047
+"Winneshiek County, IA"	19191	"Allamakee County, IA"	19005
+		"Chickasaw County, IA"	19037
+		"Clayton County, IA"	19043
+		"Fayette County, IA"	19065
+		"Howard County, IA"	19089
+		"Winneshiek County, IA"	19191
+		"Fillmore County, MN"	27045
+		"Houston County, MN"	27055
+"Woodbury County, IA"	19193	"Cherokee County, IA"	19035
+		"Crawford County, IA"	19047
+		"Ida County, IA"	19093
+		"Monona County, IA"	19133
+		"Plymouth County, IA"	19149
+		"Woodbury County, IA"	19193
+		"Dakota County, NE"	31043
+		"Thurston County, NE"	31173
+		"Union County, SD"	46127
+"Worth County, IA"	19195	"Cerro Gordo County, IA"	19033
+		"Hancock County, IA"	19081
+		"Mitchell County, IA"	19131
+		"Winnebago County, IA"	19189
+		"Worth County, IA"	19195
+		"Freeborn County, MN"	27047
+		"Mower County, MN"	27099
+"Wright County, IA"	19197	"Cerro Gordo County, IA"	19033
+		"Franklin County, IA"	19069
+		"Hamilton County, IA"	19079
+		"Hancock County, IA"	19081
+		"Hardin County, IA"	19083
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Webster County, IA"	19187
+		"Wright County, IA"	19197

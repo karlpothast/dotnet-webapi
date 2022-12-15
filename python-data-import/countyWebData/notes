@@ -1,0 +1,14 @@
+found inconsistencies on the govt adjacent county list
+ - some counties had themselves listed as adjacent
+
+"Wright County, IA"	19197	"Cerro Gordo County, IA"	19033
+		"Franklin County, IA"	19069
+		"Hamilton County, IA"	19079
+		"Hancock County, IA"	19081
+		"Hardin County, IA"	19083
+		"Humboldt County, IA"	19091
+		"Kossuth County, IA"	19109
+		"Webster County, IA"	19187
+		"Wright County, IA"	19197
+
+    ***wright county listed as its own adjacent neighbor

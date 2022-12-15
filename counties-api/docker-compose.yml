@@ -1,0 +1,19 @@
+# docker-compose up -d
+# docker-compose down
+
+version: "3.6"
+networks:
+  localdev:
+    name: localdev
+
+services:
+  counties-api:
+    privileged: true
+    entrypoint: ["dotnet","API.dll"]    
+    build:
+      context: .
+      dockerfile: src/API/Dockerfile
+    image: counties-api:latest
+    container_name: counties-api
+    networks:
+      - localdev
