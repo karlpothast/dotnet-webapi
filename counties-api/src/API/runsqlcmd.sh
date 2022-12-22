@@ -6,11 +6,11 @@ trap cleanup SIGINT SIGTERM ERR EXIT
 script_dir=$(cd "$(dirname "${BASH_SOURCE[0]}")" &>/dev/null && pwd -P)
 
 help() {
-  cat << EOF 
+  cat << EOF
 
-Usage: $(basename "${BASH_SOURCE[0]}") [-h] -d -u -p -b -t [-v] 
+Usage: $(basename "${BASH_SOURCE[0]}") [-h] -d -u -p -b -t [-v]
 
-Execute mssql command 
+Execute mssql command
 
 Available options:
 ------------------------------------------------
@@ -20,7 +20,7 @@ Available options:
 -b  --defaultdb             default sql database
 -t  --commandtext           sql command text
 -h  --help                  help menu
--v  --verbose               verbose output 
+-v  --verbose               verbose output
 
 EOF
   exit
@@ -63,23 +63,23 @@ parse_params() {
     case "${1-}" in
     -h | --help) help ;;
     -v | --verbose) set -x ;;
-    -d | --directory) 
+    -d | --directory)
       exe_directory="${2-}"
       shift
       ;;
-    -u | --username) 
+    -u | --username)
       sql_username="${2-}"
       shift
       ;;
-    -p | --password) 
+    -p | --password)
       sql_password="${2-}"
       shift
       ;;
-    -b | --defaultdb) 
+    -b | --defaultdb)
       default_db="${2-}"
       shift
       ;;
-    -t | --commandtext) 
+    -t | --commandtext)
       sql_command_text="${2-}"
       shift
       ;;
@@ -89,9 +89,7 @@ parse_params() {
     shift
   done
 
-  args=("$@")
-
-  # check required params 
+  # check required params
   [[ -z "${exe_directory}" ]] && quit "Missing required parameter: -d (executable directory)"
   [[ -z "${sql_username}" ]] && quit "Missing required parameter: -u (sql username)"
   [[ -z "${sql_password}" ]] && quit "Missing required parameter: -p (sql password)"
@@ -101,6 +99,8 @@ parse_params() {
   return 0
 }
 
+args=("$@")
 parse_params "$@"
+
 #show_debug_info
-exec $exe_directory -h 1 -U $sql_username -P $sql_password -C -d $default_db -q "exit($sql_command_text)" 
+exec $exe_directory -h 1 -U $sql_username -P $sql_password -C -d $default_db -q "exit($sql_command_text)"

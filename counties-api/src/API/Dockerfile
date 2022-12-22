@@ -1,16 +1,16 @@
-FROM dndnetsql:v1.1 AS base
+FROM karlpothast/webapidemo_net:v1.1 AS base
 WORKDIR /app
 EXPOSE 80
 EXPOSE 443
 COPY src/API/.ashrc /root/.ashrc
 COPY src/API/runsqlcmd.sh runsqlcmd.sh 
-COPY src/API/init.sh /root/init.sh
-COPY src/API/setup.sh /root/setup.sh
+COPY src/API/1-start-docker-svc.sh /root/init.sh
+COPY src/API/2-run-mssql-container.sh /root/setup.sh
 RUN apk add --no-cache icu-libs  
 ENV ENV=/root/.ashrc
 ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=false
 
-FROM dndnetsql:v1.1 AS build
+FROM karlpothast/webapidemo_net:v1.1 AS build
 WORKDIR /src
 COPY ["src/API/API.csproj", "src/API/"]
 COPY ["src/Application/Application.csproj", "src/Application/"]

@@ -5,7 +5,30 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+var  MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
 var builder = WebApplication.CreateBuilder(args);
+
+
+ builder.Services.AddCors(options =>
+ {
+    options.AddPolicy(name: MyAllowSpecificOrigins,
+      policy  =>
+      {
+          policy.WithOrigins("http://localhost:5000",
+                            "https://localhost:5001",
+                            "http://localhost",
+                            "https://localhost",
+                            "http://localhost:80",
+                            "https://localhost:443",
+                            "https://webapidemo.net",
+                            "http://webapidemo.net",
+                            "https://www.webapidemo.net",
+                            "http://www.webapidemo.net")
+                            .AllowAnyHeader()
+                            .AllowAnyMethod();
+      });
+ });
+
 
 // Controllers
 builder.Services
@@ -15,6 +38,8 @@ builder.Services
         options.Filters.Add<ValidationErrorResultFilter>();
     })
     .AddValidationSetup();
+
+
 
 // Authn / Authrz
 builder.Services.AddAuthSetup(builder.Configuration);
@@ -53,6 +78,16 @@ builder.AddOpenTemeletrySetup();
 
 var app = builder.Build();
 
+app.UseHttpsRedirection();
+app.UseForwardedHeaders(new ForwardedHeadersOptions
+{
+      ForwardedHeaders = ForwardedHeaders.XForwardedProto
+});
+app.UseDefaultFiles();
+app.UseStaticFiles();
+app.UseRouting();
+app.UseCors(MyAllowSpecificOrigins);
+
 // Configure the HTTP request pipeline.
 app.UseResponseCompression();
 
@@ -62,18 +97,13 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseMiddleware(typeof(ExceptionHandlerMiddleware));
-
 app.UseSwaggerSetup();
-
 app.UseResponseCompression();
-app.UseHttpsRedirection();
 
 app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers()
    .RequireAuthorization();
-
-//await app.Migrate();
 
 await app.RunAsync();

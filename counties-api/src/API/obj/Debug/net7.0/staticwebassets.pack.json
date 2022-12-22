@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/IowaCounties.html",
+      "PackagePath": "staticwebassets/IowaCounties.html"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/IowaCounties.svg",
+      "PackagePath": "staticwebassets/IowaCounties.svg"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/csharp.png",
+      "PackagePath": "staticwebassets/csharp.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/dotnet-logo.png",
+      "PackagePath": "staticwebassets/dotnet-logo.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/githublogo.png",
+      "PackagePath": "staticwebassets/githublogo.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/sql-docker.png",
+      "PackagePath": "staticwebassets/sql-docker.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/sql-docker.png.png",
+      "PackagePath": "staticwebassets/sql-docker.png.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/swagger.png",
+      "PackagePath": "staticwebassets/swagger.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/swagger2.png",
+      "PackagePath": "staticwebassets/swagger2.png"
+    },
+    {
+      "Id": "/home/kp/workspaces/dotnet7/dotnet-webapi/counties-api/src/API/wwwroot/test.js",
+      "PackagePath": "staticwebassets/test.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
