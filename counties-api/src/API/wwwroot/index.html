@@ -35,6 +35,13 @@
       height=40px;
       width=200px;
     }
+    .exampleButton {
+      font-family: Calibri;
+      font-size: 12pt;
+      font-weight: bold;
+      height=30px;
+      width=145px;
+    }
     input { 
       text-align: right; 
     }
@@ -43,6 +50,9 @@
       border:solid 1px lightgray;
       fore-color:lightgray;
       color:lightgray;
+    }
+    legend {
+      padding: 10px 10px;
     }
 
   </style>
@@ -53,20 +63,21 @@
 
 <div class="wrapper">
 
-
 <div class="centeredDiv" style="width:95%; height:95%">
 
 <div class="centeredDivLeft" style="border:solid black 1px;  width:100%; background-color:white">
     <table style="width:100%">
       <tr>
         <td style="text-align:left; vertical-align:middle; width:25%">
-          <a href="https://webapidemo.net" style="text-decoration:none"><label style="font-size:22pt" id="lblDesc">Dotnet7 WebApi Demo <br> Iowa Counties Adjacency </label></a>
+          <a href="https://webapidemo.net" style="text-decoration:none"><label style="font-size:20pt" id="lblDesc">Dotnet7 WebApi Demo <br> Iowa Counties Adjacency </label></a>
         </td>
         <td style="text-align:left; width:45%; ">
-          <fieldset>
+          <fieldset style="width:90%">
           <legend style="color:blue;font-weight:bold;">Tech Stack</legend>
             <img src="dotnet-logo.png" style="width:60px">
             <img src="csharp.png" style="width:60px">
+            <img src="efcore.jpg" >
+            <img src="webapi.png" style="width:60px">
             <img src="sql-docker.png" style="width:130px">
           </fieldset>
         </td>
@@ -84,11 +95,10 @@
         </td>
     </table>
  </div>
-
-  <H2 style="text-align:left">
+  <H3 style="text-align:left">
     <label id="lblHeader">Enter the County IDs to check for adjaceny (counties neighboring each other)</label>
-  </H2>
-  <table style="text-align:left">
+  </H3>
+  <table style="text-align:left; border: solid gray 1px; width:100%"">
     <tr>
       <td>
         
@@ -100,20 +110,28 @@
     <tr>
       <td>
         <label>County Id 1 :</label>
-        <input type="number" id="txtCountyId1" min="0" max="10000" autofocus style="height:40px; width:60px; font-size:20pt"  />
+        <input type="number" id="txtCountyId1" min="0" max="100" autofocus style="height:40px; width:60px; font-size:20pt"  />
        </td>
-   
+       <td rowspan="2" style="vertical-align:top; ">
+          <div style="border: solid gray 1px; height:190px; width:400px; font-family: Cambria;">
+            <span style="text-decoration:italic; font-size: 10pt"; font-family:Cambria; >*** Map ID's are based on the National Atlas of the United States and can be found 
+            <a target="_blank" href="https://en.wikipedia.org/wiki/List_of_counties_in_Iowa#County_information"><strong>here</strong></a> for Iowa counties (Map# column). </span>
+            <br><br>
+            <span style="text-decoration:italic; font-size: 10pt";font-family:Cambria;  >*** To auto-fill in ID's for Dallas County and Polk County to <strong>run an example </strong>click the 
+             Adjacent Example button below</span>
+             <br> <br>
+             <button type="submit" id="btnAdjacentExample" style="width:145px" class="exampleButton">Adjacent Example</button>
+          </div>
+      </td>
     </tr>
     <tr>
       <td>
         <label>County Id 2 :</label>
-        <input type="number" id="txtCountyId2" min="0" max="10000" style="height:40px; width:60px; font-size:20pt" />
-      </td>
-         <td rowspan="2">
-       <label id="lblMsg" style="height:40px; width:60px; font-size:20pt"></label>
+        <input type="number" id="txtCountyId2" min="0" max="100" style="height:40px; width:60px; font-size:20pt" />
       </td>
     </tr>
-      <tr>
+
+    <tr>
       <td colspan="2">
           <br/>
       </td>
@@ -123,7 +141,7 @@
         <button type="submit" id="btnCompare" style="width:300px" class="submitButton">Check County Adjaceny</button>
       </td>
       <td>
-       
+       <label id="lblMsg" style="height:40px; width:60px; font-size:20pt"></label>
       </td>
     </tr>
   </table>
@@ -144,14 +162,19 @@
 </div>
 </div>
 
-
-
   <script>
     const lblMsg = document.getElementById("lblMsg");
     
     const btnCompare = document.getElementById("btnCompare");
     const txtCountyId1 = document.getElementById("txtCountyId1");
     const txtCountyId2 = document.getElementById("txtCountyId2");
+    const btnAdjacentExample = document.getElementById("btnAdjacentExample");
+
+    btnAdjacentExample.addEventListener("click", function() {
+      txtCountyId1.value = "59";
+      txtCountyId2.value = "60";
+    });
+
 
     btnCompare.addEventListener("click", function() {
       getCountyAdjaceny(txtCountyId1.value, txtCountyId2.value);

@@ -1,8 +1,5 @@
 # dotnet-webapi
-dotnet 7 web api example using Microsoft Clean Architecture design
-
-# based on wikiepdia article :
-https://en.wikipedia.org/wiki/List_of_counties_in_Iowa
+dotnet 7 web api example using Microsoft Clean Architecture 
 
 # assumptions
 numbers used for counties are the map id column of the wikipedia list of Iowa counties 
