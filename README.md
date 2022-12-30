@@ -6,6 +6,8 @@ numbers used for counties are the map id column of the wikipedia list of Iowa co
 https://en.wikipedia.org/wiki/List_of_counties_in_Iowa
 - although the api can accept the fips numbers as well for comparison
 
+![alt text](https://raw.githubusercontent.com/karlpothast/dotnet-webapi/master/documentation/web.png)
+
 
 
 
